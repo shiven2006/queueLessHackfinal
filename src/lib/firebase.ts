@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC_FKi-svb2idZVX-bBnDEhVj_nUWS-u3E",
+  apiKey: "AIzaSyC-nfNuyWV8Rfi5e5GB0KZp_Kr2sih0uJM",
   authDomain: "queue-society.firebaseapp.com",
   projectId: "queue-society",
   storageBucket: "queue-society.appspot.com",
